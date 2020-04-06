@@ -1,0 +1,24 @@
+-----------Exception Details on  04-12-2019 18:57:01-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04-12-2019 18:57:01
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

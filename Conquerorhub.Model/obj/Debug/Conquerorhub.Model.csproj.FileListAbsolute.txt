@@ -1,0 +1,14 @@
+E:\ConquerorHub\31-01-2019\ConquerorhubApi\Conquerorhub.Model\bin\Debug\Conquerorhub.Model.dll
+E:\ConquerorHub\31-01-2019\ConquerorhubApi\Conquerorhub.Model\bin\Debug\Conquerorhub.Model.pdb
+E:\ConquerorHub\31-01-2019\ConquerorhubApi\Conquerorhub.Model\bin\Debug\Newtonsoft.Json.dll
+E:\ConquerorHub\31-01-2019\ConquerorhubApi\Conquerorhub.Model\bin\Debug\Newtonsoft.Json.xml
+E:\ConquerorHub\31-01-2019\ConquerorhubApi\Conquerorhub.Model\obj\Debug\Conquerorhub.Model.dll
+E:\ConquerorHub\31-01-2019\ConquerorhubApi\Conquerorhub.Model\obj\Debug\Conquerorhub.Model.pdb
+E:\ConquerorHub\31-01-2019\ConquerorhubApi\Conquerorhub.Model\obj\Debug\Conquerorhub.Model.csprojResolveAssemblyReference.cache
+E:\ConquerorHub\1882019\ConquerorhubApi\Conquerorhub.Model\bin\Debug\Conquerorhub.Model.dll
+E:\ConquerorHub\1882019\ConquerorhubApi\Conquerorhub.Model\bin\Debug\Conquerorhub.Model.pdb
+E:\ConquerorHub\1882019\ConquerorhubApi\Conquerorhub.Model\bin\Debug\Newtonsoft.Json.dll
+E:\ConquerorHub\1882019\ConquerorhubApi\Conquerorhub.Model\bin\Debug\Newtonsoft.Json.xml
+E:\ConquerorHub\1882019\ConquerorhubApi\Conquerorhub.Model\obj\Debug\Conquerorhub.Model.csprojResolveAssemblyReference.cache
+E:\ConquerorHub\1882019\ConquerorhubApi\Conquerorhub.Model\obj\Debug\Conquerorhub.Model.dll
+E:\ConquerorHub\1882019\ConquerorhubApi\Conquerorhub.Model\obj\Debug\Conquerorhub.Model.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConquerorhubApi", "ConquerorhubApi\ConquerorhubApi.csproj", "{7EE370AA-C44B-4E48-A9E3-CE2C8E8788D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conquerorhub.DAL", "Conquerorhub.DAL\Conquerorhub.DAL.csproj", "{7468DC74-483F-4C7A-8CE6-9799ED4B7C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conquerorhub.Model", "Conquerorhub.Model\Conquerorhub.Model.csproj", "{52A52235-0A2E-4F5B-AFFC-812F9A540B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conquerorhub.SDK", "Conquerorhub.SDK\Conquerorhub.SDK.csproj", "{085A6CE4-BAC0-476D-8299-F616D1CB2C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE370AA-C44B-4E48-A9E3-CE2C8E8788D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE370AA-C44B-4E48-A9E3-CE2C8E8788D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE370AA-C44B-4E48-A9E3-CE2C8E8788D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE370AA-C44B-4E48-A9E3-CE2C8E8788D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7468DC74-483F-4C7A-8CE6-9799ED4B7C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7468DC74-483F-4C7A-8CE6-9799ED4B7C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7468DC74-483F-4C7A-8CE6-9799ED4B7C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7468DC74-483F-4C7A-8CE6-9799ED4B7C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A52235-0A2E-4F5B-AFFC-812F9A540B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A52235-0A2E-4F5B-AFFC-812F9A540B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A52235-0A2E-4F5B-AFFC-812F9A540B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A52235-0A2E-4F5B-AFFC-812F9A540B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085A6CE4-BAC0-476D-8299-F616D1CB2C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085A6CE4-BAC0-476D-8299-F616D1CB2C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085A6CE4-BAC0-476D-8299-F616D1CB2C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085A6CE4-BAC0-476D-8299-F616D1CB2C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

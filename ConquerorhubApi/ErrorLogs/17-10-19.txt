@@ -1,0 +1,458 @@
+-----------Exception Details on  17-10-2019 15:31:11-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 15:31:11
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=7782337ded2044f4b058bfebbb9c4866
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 17:19:57-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 17:19:57
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=f0248dd63f854243950e2d5efd7774a9
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 17:54:26-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 17:54:26
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 17:54:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 17:54:30
+
+Error Line No : ine 111
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalshare/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 17:54:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 17:54:36
+
+Error Line No : ine 111
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalshare/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 17:55:01-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 17:55:01
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=ee544bbeee554e41b18403ff34adfaf3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 19:36:18-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 19:36:18
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=3b261ea51e854006a20170a774ce5b33
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 19:39:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 19:39:36
+
+Error Line No : ine 143
+
+Error Message: DbUpdateException
+
+Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/savelikes?sessionToken=7bec4700520a4a27a830f67ba45ca882
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 19:39:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 19:39:51
+
+Error Line No : ine 143
+
+Error Message: DbUpdateException
+
+Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/savelikes?sessionToken=7bec4700520a4a27a830f67ba45ca882
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 19:40:44-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 19:40:44
+
+Error Line No : ine 143
+
+Error Message: DbUpdateException
+
+Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/savelikes?sessionToken=7bec4700520a4a27a830f67ba45ca882
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 19:43:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 19:43:35
+
+Error Line No : ine 143
+
+Error Message: DbUpdateException
+
+Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/savelikes?sessionToken=7bec4700520a4a27a830f67ba45ca882
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 19:43:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 19:43:55
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=19b1b02b2ecf4f8591985524c80861b6
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 19:48:57-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 19:48:57
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=41be4e30bd69477cb4507ec7648f78e5
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 20:06:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 20:06:55
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 20:07:26-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 20:07:26
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 20:07:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 20:07:36
+
+Error Line No : ine 111
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalshare/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 20:11:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 20:11:55
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=0089776106724e4b82d5b6089671d7df
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 20:13:01-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 20:13:01
+
+Error Line No : ine 263
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: entity
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/deletesharepost?sessionToken=c6eb25ba4c304add8ca1253c91a1e515&postid=fbc77ea0-1cde-4a83-99bc-0bb527d17005&Userid=9af3a5ba-4cfb-4649-9579-54f36f03c14e
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  17-10-2019 20:13:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-10-2019 20:13:02
+
+Error Line No : ine 263
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: entity
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/deletesharepost?sessionToken=c6eb25ba4c304add8ca1253c91a1e515&postid=fbc77ea0-1cde-4a83-99bc-0bb527d17005&Userid=9af3a5ba-4cfb-4649-9579-54f36f03c14e
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

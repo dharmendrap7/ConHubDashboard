@@ -1,0 +1,96 @@
+-----------Exception Details on  02-11-2019 15:31:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-11-2019 15:31:10
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=c2f11462c25a478496b5ba9f2395e14c
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  02-11-2019 15:40:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-11-2019 15:40:54
+
+Error Line No : ine 113
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/participants/getparticipantAbout/?sessionToken=&userid=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  02-11-2019 15:41:42-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-11-2019 15:41:42
+
+Error Line No : line 30
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotallikesofthepost/?sessionToken=69f7e0f08cf846d88664035444d5e946
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  02-11-2019 18:40:13-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-11-2019 18:40:13
+
+Error Line No : line 98
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/Events/getOregisteredAboutevent/?sessionToken=&Userid=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

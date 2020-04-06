@@ -1,0 +1,195 @@
+-----------Exception Details on  15-10-2019 19:14:53-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-10-2019 19:14:53
+
+Error Line No : ine 263
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: entity
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/deletesharepost?sessionToken=60655292740d4218a9dc6200b371ea41&postid=fbc77ea0-1cde-4a83-99bc-0bb527d17005&Userid=a95ab24e-69aa-4578-b027-72ecff69aace
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-10-2019 19:14:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-10-2019 19:14:55
+
+Error Line No : ine 263
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: entity
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/deletesharepost?sessionToken=60655292740d4218a9dc6200b371ea41&postid=fbc77ea0-1cde-4a83-99bc-0bb527d17005&Userid=a95ab24e-69aa-4578-b027-72ecff69aace
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-10-2019 19:15:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-10-2019 19:15:00
+
+Error Line No : ine 263
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: entity
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/deletesharepost?sessionToken=60655292740d4218a9dc6200b371ea41&postid=fbc77ea0-1cde-4a83-99bc-0bb527d17005&Userid=a95ab24e-69aa-4578-b027-72ecff69aace
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-10-2019 19:54:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-10-2019 19:54:15
+
+Error Line No : ine 111
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalshare/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-10-2019 19:54:26-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-10-2019 19:54:26
+
+Error Line No : ine 111
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalshare/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-10-2019 21:36:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-10-2019 21:36:20
+
+Error Line No : ine 111
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalshare/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-10-2019 21:36:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-10-2019 21:36:20
+
+Error Line No : ine 111
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalshare/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-10-2019 21:36:53-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-10-2019 21:36:53
+
+Error Line No : ine 111
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalshare/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,48 @@
+-----------Exception Details on  07-09-2019 16:39:17-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2019 16:39:17
+
+Error Line No : ine 127
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/getmainphotos/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2019 16:39:43-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2019 16:39:43
+
+Error Line No : ine 127
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/getmainphotos/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

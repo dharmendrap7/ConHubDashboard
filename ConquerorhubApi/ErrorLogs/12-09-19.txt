@@ -1,0 +1,24 @@
+-----------Exception Details on  12-09-2019 00:22:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-09-2019 00:22:36
+
+Error Line No : line 62
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalvotesperpost/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

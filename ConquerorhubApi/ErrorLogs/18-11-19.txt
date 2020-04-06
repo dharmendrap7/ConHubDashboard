@@ -1,0 +1,120 @@
+-----------Exception Details on  18-11-2019 19:24:24-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18-11-2019 19:24:24
+
+Error Line No : line 62
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalvotesperpost/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  18-11-2019 19:24:59-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18-11-2019 19:24:59
+
+Error Line No : line 62
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalvotesperpost/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  18-11-2019 19:58:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18-11-2019 19:58:30
+
+Error Line No : line 62
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalvotesperpost/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  18-11-2019 22:01:50-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18-11-2019 22:01:50
+
+Error Line No : ine 127
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/getmainphotos/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  18-11-2019 22:39:58-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 18-11-2019 22:39:58
+
+Error Line No : line 62
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:60470/api/savecommonfunctionality/gettotalvotesperpost/?sessionToken=
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
